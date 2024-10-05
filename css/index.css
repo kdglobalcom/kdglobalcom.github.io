@@ -7528,10 +7528,10 @@ div#banners .bannerText {
   }
 }
 [data-theme=dark] {
-  --efu-theme: #ffc848;
-  --efu-theme-op: rgba(255,200,72,0.137);
-  --efu-theme-op-deep: rgba(255,200,72,0.867);
-  --efu-theme-none: rgba(255,200,72,0);
+  --efu-theme: #352bb5;
+  --efu-theme-op: rgba(53,43,181,0.137);
+  --efu-theme-op-deep: rgba(53,43,181,0.867);
+  --efu-theme-none: rgba(53,43,181,0);
   --efu-blue: #0084ff;
   --efu-red: #ff3842;
   --efu-pink: #d44040;
