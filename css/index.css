@@ -5004,15 +5004,6 @@ span.tags-punctuation {
     padding: 0 1rem;
   }
 }
-@media screen and (min-width: 1300px) {
-  #recent-posts > .recent-post-item {
-    flex-direction: column;
-    width: 100%;
-    flex: 1 1 33.3%;
-    max-width: 32.6%;
-    box-shadow: var(--efu-shadow-border);
-  }
-}
 #rightMenu {
   display: none;
   position: fixed;
