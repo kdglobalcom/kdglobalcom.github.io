@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kdglobalcom.github.io/2024/10/08/test-for-talk/</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdglobalcom.github.io/test-for-talk/index.html</loc>
+    
+    <lastmod>2024-10-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kdglobalcom.github.io/2024/10/05/O-PAN/</loc>
     
     <lastmod>2024-10-07</lastmod>
@@ -103,6 +121,20 @@
   
   <url>
     <loc>https://kdglobalcom.github.io/tags/%E5%9B%9E%E6%94%B6%E8%A3%BD%E5%93%81/</loc>
+    <lastmod>2024-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdglobalcom.github.io/tags/mvp/</loc>
+    <lastmod>2024-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdglobalcom.github.io/tags/PPP/</loc>
     <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
